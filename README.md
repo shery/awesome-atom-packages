@@ -15,3 +15,21 @@ Language grammar for all versions of JavaScript including ES2016 and ESNext, JSX
 ```
 Syntax highlighting for PostCSS
 ```
+
+## Autocomplete
+* autocomplete-modules
+```
+Autocomplete for require/import statements
+```
+* autocomplete-paths
+```
+Adds path autocompletion to autocomplete-plus
+```
+* atom-ternjs
+```
+Autocomplete for ES5, ES6, ES7, Node.js, jQuery, Angular and more.
+```
+* emmet
+```
+Allow you to work quickly when writing HTML, CSS, Sass / SCSS and LESS syntaxes
+```
