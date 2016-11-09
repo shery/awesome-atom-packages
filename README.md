@@ -47,3 +47,13 @@ Linter plugin for JavaScript, using jshint
 ```
 Lint JavaScript on the fly, using ESLint
 ```
+
+## Version Control
+* git-plus
+```
+Do git things without the terminal
+```
+* merge-conflicts
+```
+Resolve git conflicts within Atom
+```
