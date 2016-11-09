@@ -27,7 +27,7 @@ Adds path autocompletion to autocomplete-plus
 ```
 * atom-ternjs
 ```
-Autocomplete for ES5, ES6, ES7, Node.js, jQuery, Angular and more.
+Autocomplete for ES5, ES6, ES7, Node.js, jQuery, Angular and more
 ```
 * emmet
 ```
@@ -56,4 +56,54 @@ Do git things without the terminal
 * merge-conflicts
 ```
 Resolve git conflicts within Atom
+```
+
+## Extension
+* minimap
+```
+A preview of the full source code
+```
+* file-icons
+```
+Assign file extension icons and colours for improved visual grepping
+```
+* atom-beautify
+```
+Beautify HTML, CSS, JavaScript, and more in Atom
+```
+* pigments
+```
+A package to display colors in project and files
+```
+* color-picker
+```
+A Color Picker for Atom
+```
+* highlight-selected
+```
+Highlights the current word selected when double clicking
+```
+* minimap-highlight-selected
+```
+A minimap binding for the highlight-selected package
+```
+* docblockr
+```
+A helper package for writing documentation
+```
+* markdown-preview-plus
+```
+A real-time preview for markdown documents
+```
+* hyperclick
+```
+Pluggable text-clicking UI for Atom
+```
+* js-hyperclick
+```
+A hyperclick provider that lets you jump to where variables are defined
+```
+* travis-ci-status
+```
+Add Travis CI status of the project to the Atom status bar
 ```
