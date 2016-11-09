@@ -1,4 +1,4 @@
-# atom-packages
+# awesome-atom-packages
 Some Useful Atom Packages for Web Developers ! New to [Atom](https://atom.io/)?
 
 [![apm](https://img.shields.io/badge/atom-v1.11.2-green.svg)](http://atom.io/)
