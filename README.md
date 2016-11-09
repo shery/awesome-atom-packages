@@ -33,3 +33,17 @@ Autocomplete for ES5, ES6, ES7, Node.js, jQuery, Angular and more.
 ```
 Allow you to work quickly when writing HTML, CSS, Sass / SCSS and LESS syntaxes
 ```
+
+## Syntax Checking
+* linter
+```
+A Base Linter with Cow Powers
+```
+* linter-jshint
+```
+Linter plugin for JavaScript, using jshint
+```
+* linter-eslint
+```
+Lint JavaScript on the fly, using ESLint
+```
