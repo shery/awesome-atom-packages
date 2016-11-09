@@ -7,7 +7,7 @@ Some Useful Atom Packages for Web Developers ! New to [Atom](https://atom.io/)?
 Here's a list of several atom-packages for Web developers. With these atom-packages , atom will provide IDE-like functionality.
 
 ## Syntax Support
-* ### language-babel
+* language-babel
 ```
 Language grammar for all versions of JavaScript including ES2016 and ESNext, JSX
 ```
