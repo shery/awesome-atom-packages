@@ -6,6 +6,13 @@ Some Useful Atom Packages for Web Developers ! New to [Atom](https://atom.io/)?
 
 Here's a list of several atom-packages for Web developers. With these atom-packages , atom will provide IDE-like functionality.
 
+## Table of Contents
+* [Syntax Support](#syntax-support)
+* [Autocomplete](#autocomplete)
+* [Syntax Checking](#syntax-checking)
+* [Version Control](#version-control)
+* [Extension](#extension)
+
 ## Syntax Support
 * language-babel
 ```
