@@ -12,7 +12,7 @@ Here's a list of several atom-packages for Web developers. With these atom-packa
 * [Syntax Checking](#syntax-checking)
 * [Version Control](#version-control)
 * [Extension](#extension)
-* [Contributing](#Contributing)
+* [Contributing](#contributing)
 
 ## Syntax Support
 * [language-babel](https://atom.io/packages/language-babel)
