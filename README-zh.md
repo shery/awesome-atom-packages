@@ -112,5 +112,5 @@ markdown 实时预览
 ```
 * travis-ci-status
 ```
-底部状态栏扩展
+底部状态栏扩展，添加项目 Travis CI 状态
 ```
