@@ -12,6 +12,7 @@ Here's a list of several atom-packages for Web developers. With these atom-packa
 * [Syntax Checking](#syntax-checking)
 * [Version Control](#version-control)
 * [Extension](#extension)
+* [Contributing](#Contributing)
 
 ## Syntax Support
 * [language-babel](https://atom.io/packages/language-babel)
@@ -114,3 +115,8 @@ A hyperclick provider that lets you jump to where variables are defined
 ```
 Add Travis CI status of the project to the Atom status bar
 ```
+
+## Contributing
+* ⇄ Pull requests and ★ Stars are always welcome.
+* For any mistakes and suggestions, please [create an issue](https://github.com/shery15/awesome-atom-packages/issues/new).
+* To contribute to awesome-atom-packages, clone this repo locally and commit your code on a separate branch.
