@@ -11,6 +11,7 @@ Here's a list of several atom-packages for Web developers. With these atom-packa
 * [Autocomplete](#autocomplete)
 * [Syntax Checking](#syntax-checking)
 * [Version Control](#version-control)
+* [Project Management](#project-management)
 * [Extension](#extension)
 * [Contributing](#contributing)
 
