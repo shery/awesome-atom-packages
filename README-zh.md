@@ -65,6 +65,12 @@ ES5, ES6, ES7, Node.js, jQuery, Angular 等等 js 代码自动补全
 通过 Atom 处理冲突的文件
 ```
 
+## 项目管理
+* [project-manager](https://atom.io/packages/project-manager)
+```
+让你轻松访问你的所有项目，同时可通过额外配置管理你的项目
+```
+
 ## 扩展功能
 * [minimap](https://atom.io/packages/minimap)
 ```

@@ -66,6 +66,12 @@ Do git things without the terminal
 Resolve git conflicts within Atom
 ```
 
+## Project Management
+* [project-manager](https://atom.io/packages/project-manager)
+```
+Get easy access to all your projects and manage them with project specific settings and options
+```
+
 ## Extension
 * [minimap](https://atom.io/packages/minimap)
 ```
