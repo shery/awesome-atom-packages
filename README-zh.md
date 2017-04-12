@@ -55,6 +55,10 @@ ES5, ES6, ES7, Node.js, jQuery, Angular 等等 js 代码自动补全
 ```
 基于 ESLint 的 JavaScript 语法检查插件
 ```
+* [editorconfig](https://atom.io/packages/editorconfig)
+```
+多人协作开发，不同编辑器之间保持一致的编码风格
+```
 
 ## 版本控制
 * [git-plus](https://atom.io/packages/git-plus)

@@ -56,6 +56,10 @@ Linter plugin for JavaScript, using jshint
 ```
 Lint JavaScript on the fly, using ESLint
 ```
+* [editorconfig](https://atom.io/packages/editorconfig)
+```
+maintain consistent coding styles between different editors
+```
 
 ## Version Control
 * [git-plus](https://atom.io/packages/git-plus)
