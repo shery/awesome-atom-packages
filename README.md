@@ -1,12 +1,13 @@
 # awesome-atom-packages
 Some Useful Atom Packages for Web Developers ! New to [Atom](https://atom.io/)?
 
-[![apm](https://img.shields.io/badge/atom-v1.14.1-green.svg)](http://atom.io/)
+[![apm](https://img.shields.io/badge/atom-v1.15.0-green.svg)](http://atom.io/)
 [![apm](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Here's a list of several atom-packages for Web developers. With these atom-packages , atom will provide IDE-like functionality.
 
 ## Table of Contents
+* [Quick Start](#quick-start)
 * [Syntax Support](#syntax-support)
 * [Autocomplete](#autocomplete)
 * [Syntax Checking](#syntax-checking)
@@ -14,6 +15,12 @@ Here's a list of several atom-packages for Web developers. With these atom-packa
 * [Project Management](#project-management)
 * [Extension](#extension)
 * [Contributing](#contributing)
+
+## Quick Start
+1. Download [apm.sh](./apm.sh)
+2. Run [apm.sh](./apm.sh)
+3. Restart [Atom](https://atom.io/)
+> Before you run this shell script, make sure you have installed Atom !
 
 ## Syntax Support
 * [language-babel](https://atom.io/packages/language-babel)
