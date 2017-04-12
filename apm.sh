@@ -1,9 +1,7 @@
 # !/bin/bash
 
 # Awesome Atom Packages
-
-# Here's a list of several atom-packages for Web developers.
-# With these atom-packages , atom will provide IDE-like functionality.
+# Before you run this shell script, make sure you have installed Atom
 
 apm install \
 language-babel \

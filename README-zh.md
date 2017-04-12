@@ -1,18 +1,25 @@
 # awesome-atom-packages
 对于 Web 开发者来说很有用的 Atom 插件！刚接触 [Atom](https://atom.io/) ?
 
-[![apm](https://img.shields.io/badge/atom-v1.14.1-green.svg)](http://atom.io/)
+[![apm](https://img.shields.io/badge/atom-v1.15.0-green.svg)](http://atom.io/)
 [![apm](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 这是一个适用于 Web 开发者的 Atom 插件列表。 有了这些插件帮助， Atom 可以为我们提供类似 IDE 的功能.
 
 ## 目录
+* [快速开始](#快速开始)
 * [语法支持](#语法支持)
 * [自动补全](#自动补全)
 * [语法检查](#语法检查)
 * [版本控制](#版本控制)
 * [项目管理](#项目管理)
 * [扩展功能](#扩展功能)
+
+## 快速开始
+1. 下载 [apm.sh](./apm.sh)
+2. 执行 [apm.sh](./apm.sh)
+3. 重启 [Atom](https://atom.io/)
+> 在你执行 shell 脚本之前, 请确保你已经安装 Atom !
 
 ## 语法支持
 * [language-babel](https://atom.io/packages/language-babel)
