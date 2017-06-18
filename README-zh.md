@@ -1,7 +1,7 @@
 # awesome-atom-packages
 对于 Web 开发者来说很有用的 Atom 插件！刚接触 [Atom](https://atom.io/) ?
 
-[![apm](https://img.shields.io/badge/atom-v1.15.0-green.svg)](http://atom.io/)
+[![apm](https://img.shields.io/badge/atom-v1.18.0-green.svg)](http://atom.io/)
 [![apm](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 这是一个适用于 Web 开发者的 Atom 插件列表。 有了这些插件帮助， Atom 可以为我们提供类似 IDE 的功能.
@@ -68,6 +68,7 @@ ES5, ES6, ES7, Node.js, jQuery, Angular 等等 js 代码自动补全
 ```
 
 ## 版本控制
+Atom 最新的核心组件，集成了 Git 和 GitHub 功能！你可以试试看！
 * [git-plus](https://atom.io/packages/git-plus)
 ```
 丢掉终端，在 Atom 里面执行 Git 命令
