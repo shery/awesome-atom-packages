@@ -1,7 +1,7 @@
 # awesome-atom-packages
 对于 Web 开发者来说很有用的 Atom 插件！刚接触 [Atom](https://atom.io/) ?
 
-[![apm](https://img.shields.io/badge/atom-v1.19.0-green.svg)](http://atom.io/)
+[![apm](https://img.shields.io/badge/atom-v1.20.0-green.svg)](http://atom.io/)
 [![apm](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 这是一个适用于 Web 开发者的 Atom 插件列表。 有了这些插件帮助， Atom 可以为我们提供类似 IDE 的功能.
