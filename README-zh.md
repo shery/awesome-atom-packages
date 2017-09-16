@@ -6,6 +6,8 @@
 
 这是一个适用于 Web 开发者的 Atom 插件列表。 有了这些插件帮助， Atom 可以为我们提供类似 IDE 的功能.
 
+**随着 [Atom 1.21.0-beta0](https://github.com/atom/atom/releases/tag/v1.21.0-beta0) 的发布, [Atom IDE](https://ide.atom.io/) 让我们有了另一种方式，开始我们的 [Atom](https://atom.io/) IDE 体验, 可以试一试，还不错哟, [更多细节...](http://blog.atom.io/2017/09/12/announcing-atom-ide.html)**
+
 ## 目录
 * [快速开始](#快速开始)
 * [语法支持](#语法支持)
