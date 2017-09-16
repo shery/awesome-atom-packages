@@ -6,6 +6,8 @@ Some Useful Atom Packages for Web Developers ! New to [Atom](https://atom.io/)?
 
 Here's a list of several atom-packages for Web developers. With these atom-packages , atom will provide IDE-like functionality.
 
+With new beta release of [Atom 1.21.0-beta0](https://github.com/atom/atom/releases/tag/v1.21.0-beta0), [Atom IDE](https://ide.atom.io/) gives us a new way to start using IDE-like features in [Atom](https://atom.io/), I strongly recommended you try this out, [more details...](http://blog.atom.io/2017/09/12/announcing-atom-ide.html) 
+
 ## Table of Contents
 * [Quick Start](#quick-start)
 * [Syntax Support](#syntax-support)
