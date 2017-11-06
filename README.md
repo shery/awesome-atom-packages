@@ -136,6 +136,14 @@ A hyperclick provider that lets you jump to where variables are defined
 ```
 Add Travis CI status of the project to the Atom status bar
 ```
+* [platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal)
+```
+Trigger embedded terminal in Atom by pressing Ctrl + `
+```
+* [sync-settings](https://atom.io/packages/sync-settings)
+```
+Backup Atom's packages and settings to Gist automatically, easy to restore.
+```
 
 ## Contributing
 * ⇄ Pull requests and ★ Stars are always welcome.

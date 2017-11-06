@@ -135,3 +135,11 @@ markdown 实时预览
 ```
 底部状态栏扩展，添加项目 Travis CI 状态
 ```
+* [platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal)
+```
+通过 Ctrl + ` 触发嵌入在 Atom 的终端
+```
+* [sync-settings](https://atom.io/packages/sync-settings)
+```
+自动备份 Atom 的包和设置至 Gist，易还原
+```
