@@ -142,7 +142,7 @@ Trigger embedded terminal in Atom by pressing Ctrl + `
 ```
 * [sync-settings](https://atom.io/packages/sync-settings)
 ```
-Backup Atom's packages and settings to Gist automatically, easy to restore.
+Backup Atom's packages and settings to Gist, easy to restore.
 ```
 
 ## Contributing
