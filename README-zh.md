@@ -141,5 +141,5 @@ markdown 实时预览
 ```
 * [sync-settings](https://atom.io/packages/sync-settings)
 ```
-自动备份 Atom 的包和设置至 Gist，易还原
+备份 Atom 的包和设置至 Gist，易还原
 ```
