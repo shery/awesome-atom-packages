@@ -30,3 +30,4 @@ js-hyperclick \
 travis-ci-status \
 platformio-ide-terminal \
 sync-settings \
+minimap-git-diff \

@@ -91,6 +91,10 @@ Atom 最新的核心组件，集成了 Git 和 GitHub 功能！你可以试试�
 ```
 源码预览图
 ```
+* [minimap-git-diff](https://atom.io/packages/minimap-git-diff)
+```
+源码预览图中高亮文件在工作目录与暂存区的差别
+```
 * [file-icons](https://atom.io/packages/file-icons)
 ```
 显示文件类型对应的图标
