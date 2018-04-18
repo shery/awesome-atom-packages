@@ -92,6 +92,10 @@ Get easy access to all your projects and manage them with project specific setti
 ```
 A preview of the full source code
 ```
+* [minimap-git-diff](https://atom.io/packages/minimap-git-diff)
+```
+A minimap binding for the git diff package
+```
 * [file-icons](https://atom.io/packages/file-icons)
 ```
 Assign file extension icons and colours for improved visual grepping
