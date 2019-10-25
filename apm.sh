@@ -1,4 +1,4 @@
-# !/bin/bash
+#!/bin/bash
 
 # Awesome Atom Packages
 # Before you run this shell script, make sure you have installed Atom
